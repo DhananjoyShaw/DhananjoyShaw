@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working on [Chat Application](https://github.com/DhananjoyShaw/Chat-Application---Main)
 
-- 🌱 I’m currently learning **Next.js and advanced React concepts**
+- 🌱 I’m currently learning **Next.js and advanced React concepts.**
 
-- 💬 Ask me about **DSA, React, Node.js and Express.js**
+- 👯 I’m looking to collaborate on **open source.**
+
+- 💬 Ask me about **CS, DSA and WebD.**
 
 - 📫 How to reach me **dhananjoyshaw0218@gmail.com**
 
@@ -18,6 +20,7 @@
 <a href="https://medium.com/@dhananjoyshaw2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhananjoyshaw2002" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dshaw0218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dshaw0218" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhananjoy0218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhananjoy0218" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ben10yson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ben10yson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjoyshaw&show_icons=true&locale=en&layout=compact" alt="dhananjoyshaw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjoyshaw&show_icons=true&locale=en" alt="dhananjoyshaw" /></p>
-
-
-expressjs and photoshop image made visible in dark mode
